@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/leetomo2528/lab-inventory.git/static/css/main.e6c13ad2.css",
-    "main.js": "/leetomo2528/lab-inventory.git/static/js/main.0ae1673c.js",
-    "static/js/453.f60fe166.chunk.js": "/leetomo2528/lab-inventory.git/static/js/453.f60fe166.chunk.js",
+    "main.js": "/leetomo2528/lab-inventory.git/static/js/main.38f0c248.js",
+    "static/js/453.44c59cba.chunk.js": "/leetomo2528/lab-inventory.git/static/js/453.44c59cba.chunk.js",
     "index.html": "/leetomo2528/lab-inventory.git/index.html",
     "main.e6c13ad2.css.map": "/leetomo2528/lab-inventory.git/static/css/main.e6c13ad2.css.map",
-    "main.0ae1673c.js.map": "/leetomo2528/lab-inventory.git/static/js/main.0ae1673c.js.map",
-    "453.f60fe166.chunk.js.map": "/leetomo2528/lab-inventory.git/static/js/453.f60fe166.chunk.js.map"
+    "main.38f0c248.js.map": "/leetomo2528/lab-inventory.git/static/js/main.38f0c248.js.map",
+    "453.44c59cba.chunk.js.map": "/leetomo2528/lab-inventory.git/static/js/453.44c59cba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0ae1673c.js"
+    "static/js/main.38f0c248.js"
   ]
 }
